@@ -1,0 +1,35 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  text-align: center;
+  text-transform: uppercase;
+  background:url(header.jpg) no-repeat center center fixed;
+  background-size:cover;
+}
+.btn-primary:hover{
+    background-color: orangered;
+    border-color:orange;
+}
+.row{
+  padding-top: 150px;
+}
+.buffer{
+  height:50px;
+}
+.btn{
+  border:4px solid orange;
+  border-radius:300px;
+}
+.btn-primary{
+  background-color: orange;
+  text-transform:uppercase;
+  margin:150px;
+}
+hr{
+  border-color:orange;
+  max-width:65px;
+  border-width:3px;
+}
